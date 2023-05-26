@@ -1,0 +1,7 @@
+00
+
+
+
+دستور ما در cron
+
+cd /home/digibed1/project && /usr/local/cpanel/3rdparty/lib/path-bin/git reset --hard HEAD && /usr/local/cpanel/3rdparty/lib/path-bin/git pull -q origin master
