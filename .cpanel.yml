@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/digibed1/project/
+    - export DEPLOYPATH=/home/digibed1/1/
     - /bin/cp * $DEPLOYPATH
